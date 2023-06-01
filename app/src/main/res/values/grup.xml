@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grup_sec">
+        <item>Aile</item>
+        <item>Okul</item>
+        <item>İş</item>
+        <item>Arkadaş</item>
+
+    </string-array></resources>

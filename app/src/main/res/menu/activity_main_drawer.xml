@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/_16242_home_icon"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_family"
+            android:icon="@drawable/_289567_clan_family_group_peers_person_icon"
+            android:title="@string/menu_family" />
+        <item
+            android:id="@+id/nav_friend"
+            android:icon="@drawable/_994366_friend_group_members_people_team_icon"
+            android:title="@string/menu_friend" />
+        <item
+            android:id="@+id/nav_school"
+            android:icon="@drawable/_035073_school_icon"
+            android:title="@string/menu_school" />
+        <item
+            android:id="@+id/nav_work"
+            android:icon="@drawable/_52228_work_icon"
+            android:title="@string/menu_work" />
+    </group>
+</menu>
